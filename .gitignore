@@ -45,3 +45,23 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.pdf
+*.png
+*.html
+*.gif
+*.o
+*.chm
+*.rtf
+**/STM32F30x_StdPeriph_Examples/**
+**/EWARM/**
+**/LazikSTM32F3/**
+**/MDK-ARM/**
+**/Debug/**
+**/STM32F303xC/**
+**/STM32F303xE/**
+**/STM32F334x8/**
+**/Documentation/**
+**/Examples/**
+**/.metadata/**
+*.elf*
+**/LazikSTM32F3

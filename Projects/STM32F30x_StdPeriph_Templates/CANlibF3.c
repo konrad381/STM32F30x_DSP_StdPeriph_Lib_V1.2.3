@@ -1,6 +1,6 @@
 #include "CANlibF3.h"
 
-const int stronaPlytka = 1; //1-prawa 0-lewa
+const int stronaPlytka = 0; //1-prawa 0-lewa
 
 //==================================================================================================
 //Funkcja inicjalizuje CAN na pinach PA11 CAN_RX / PA12 CAN_TX
