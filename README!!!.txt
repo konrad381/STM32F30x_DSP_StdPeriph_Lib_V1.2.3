@@ -1,19 +1,23 @@
 @Autor: Konrad Aleksiejuk
 @Data aktualizacji: marzec 2017
 @Kontakt: konrad381@onet.eu
-@Projekt ³azika marsjañskiego Ko³a Naukowego Robotyków Politechniki Warszawskiej. 
+@Projekt Å‚azika marsjaÅ„skiego KoÅ‚a Naukowego RobotykÃ³w Politechniki Warszawskiej. 
 
 
 
-Repozytorium zawiera wszystkie pliki (biblioteki, kod, ustawienia kompilatora) niezbêdne do skompilowania kodu i wgrania go na mikrokontroler STM32F302
+Repozytorium zawiera wszystkie pliki (biblioteki, kod, ustawienia kompilatora) niezbÄ™dne do skompilowania kodu i wgrania go na mikrokontroler STM32F302
 
-Do kompilacji nale¿y wykorzystaæ program Atollic TrueSTUDIO (wersja darmowa dostêpna tutaj: https://atollic.com/)
+Do kompilacji naleÅ¼y wykorzystaÄ‡ program Atollic TrueSTUDIO (wersja darmowa dostÄ™pna tutaj: https://atollic.com/)
 
-Plik uruchomieniowy ca³ego projektu znajduje siê pod podan¹ scie¿k¹:
+Plik uruchomieniowy caÅ‚ego projektu znajduje siÄ™ pod podanÅ¡ scieÅ¼kÅ¡:
 
 ./STM32F3calyProjekt/Projects/STM32F30x_StdPeriph_Templates/TrueSTUDIO/STM32F302x8/.project
 
 
-Pliki zawieraj¹ce kod programu (bez bibliotek) znajduj¹ siê pod scie¿k¹:
+Pliki zawierajÅ¡ce kod programu (bez bibliotek) znajdujÅ¡ siÄ™ pod scieÅ¼kÅ¡:
 
 ./STM32F3calyProjekt/Projects/STM32F30x_StdPeriph_Templates/
+
+
+D:\Projekty\STM32\Atollic\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Projects\STM32F30x_StdPeriph_Templates\TrueSTUDIO
+Z takÄ… scieÅ¼kÄ… dostÄ™pu wszystko dziaÅ‚a dobrze, inne powodujÄ… problemy, najlepiej stworzyÄ‡ nowy projekt wedÅ‚ug instrukcji Mateusza.
